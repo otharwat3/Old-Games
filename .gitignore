@@ -1,0 +1,6 @@
+/out/
+.DS_Store
+.idea/
+*.iml
+*.class
+node_modules/
